@@ -23,4 +23,11 @@
     <string name="menu_home">Home</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_nombreH">Nombre del hotel</string>
+    <string name="msg_correo_add">Correo del hotel</string>
+    <string name="msg_telefono_add">Teléfono del hotel</string>
+    <string name="msg_web_add">Sitio web del hotel</string>
+    <string name="msg_hotel_add">Hotel agregado</string>
+    <string name="bt_add_hotel">Agregar hotel</string>
 </resources>
